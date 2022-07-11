@@ -7,3 +7,5 @@ to run in local server
 ``npm init``
 
 ``npm i express body-parser``
+
+open in ``localhost:3000``
